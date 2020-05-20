@@ -18,13 +18,13 @@ In the production mode, we will have only 1 server running. All the client side 
 
 ```bash
 # Clone the repository
-https://github.com/sahilnare/WebRTC-React-Node.git
+https://github.com/neetesh1996/react-node-webrtc
 
 # Go inside the directory
-cd WebRTC-React-Node
+cd react-node-webrtc
 
 # Install dependencies
- npm install)
+ npm install
 
 # Start development server
  npm run dev
@@ -33,5 +33,5 @@ cd WebRTC-React-Node
  npm run build
 
 # Start production server
- npm start)
+ npm start
 ```
