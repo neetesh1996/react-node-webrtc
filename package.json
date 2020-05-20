@@ -12,7 +12,7 @@
     "heroku-postbuild": "npm install --only=dev && npm run build"
   },
   "author": "Sahil Nare",
-  "license": "ISC",
+  "license":"",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.13.0",
     "babel-polyfill": "^6.26.0",
