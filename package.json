@@ -11,8 +11,8 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "heroku-postbuild": "npm install --only=dev && npm run build"
   },
-  "author": "Sahil Nare",
-  "license":"",
+  "author": "eynos",
+  "license": "",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.13.0",
     "babel-polyfill": "^6.26.0",

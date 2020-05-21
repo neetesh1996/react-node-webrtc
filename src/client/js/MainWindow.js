@@ -16,7 +16,7 @@ function MainWindow({ startCall, clientId }) {
   return (
     <div className="container main-window">
       <div>
-        <h1>Welcome to Eynos Chat!</h1>
+        <h1>Welcome to Eynos Video-Chat!</h1>
         <h3>
           Your ID is
           <input
